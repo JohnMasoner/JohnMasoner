@@ -5,7 +5,7 @@ Hi This is Mason Ma. 👋
 
 - I'm a deep learning algorithm engineer or captain(Ship⚓)
 
-- 👨‍⚕️ Currently an work at [Manteia](http://www.manteiatech.com/).
+- My research interests are Medical Image, Open Source.
 
 - 💬 Ask me about <masoner6429@gmail.com>
 
